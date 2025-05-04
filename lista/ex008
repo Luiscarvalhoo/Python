@@ -1,0 +1,3 @@
+travel = ['Rio de Janeiro','Buenos Aires','Montevídeo','New York','Barcelona','Moscow']
+
+print(sorted(travel))

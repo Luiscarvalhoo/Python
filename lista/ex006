@@ -1,0 +1,23 @@
+convidados = ['Maria','Antônio','Fabricio']
+
+# O método "insert" é utilizado para adicionar uma variável dentro de uma lista no local que eu desejo 
+
+convidados.insert(1,'Venê')
+
+convidados.append('Carlos')
+
+convidados.insert(0,'Giovanni')
+
+convidados.append('Lucas')
+
+convidados.remove("Maria")
+
+for convidado in convidados:
+
+    if convidado == 'Antônio' or convidados == 'Lucas':
+
+        print(f"Você não foi convidado, {convidado}")
+
+    else:
+
+        print(f'Gostaria convidar você para meu jantar, {convidado}')

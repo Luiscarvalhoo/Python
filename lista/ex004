@@ -1,0 +1,4 @@
+convidados = ['Maria','Antônio','Fabricio']
+
+for convidado in convidados:
+    print(f'Gostaria convidar você para meu jantar, {convidado}')

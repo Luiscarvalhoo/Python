@@ -1,0 +1,7 @@
+# Irei criar uma variável chamada "name" que inclua uma lista de nomes 
+
+name = ['Jean','Leonardo','Luis','Gabriel']
+
+# Irei imprimir essa lista com a função print
+
+print(name)

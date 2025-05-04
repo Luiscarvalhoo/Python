@@ -1,0 +1,13 @@
+# Irei criar uma variável chamada "name" que inclua uma lista de nomes 
+
+names = ['Jean','Leonardo','Luis','Gabriel']
+
+# Irei utilizar o loop for para rodar cada nome da lista
+
+for name in names:
+
+# Posso ler como: "Para cada nome dentro de nomes"
+
+    print(f'Olá tudo bem, meu nome é {name}')
+
+    # Leia "Olá tudo bem, meu nome é {variável}"

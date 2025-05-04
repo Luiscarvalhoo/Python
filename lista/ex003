@@ -1,0 +1,8 @@
+# Uma lista de coisas que eu quero
+
+list_want = 'Corolla','PC','Xbox Series X','Apartamento'
+
+# Para cada coisa quero dentro da lista das coisas que eu quero
+
+for want in list_want:
+    print(f"Gostaria de ter um {want}")

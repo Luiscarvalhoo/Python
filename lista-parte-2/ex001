@@ -1,0 +1,7 @@
+pizzas = ['Frango','Carne de Sol','Bacon']
+
+for pizza in pizzas:
+
+    print(f'Eu gosto de pizza de {pizza}')
+
+print('Eu amo pizza!')

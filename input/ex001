@@ -1,0 +1,8 @@
+carros_disponiveis = ['Chevrolet','Ford','Toyota','Volksvagem']
+
+carro = input("Que marca de carro você gostaria de alugar? ")
+
+if carro.title() in carros_disponiveis:
+    print('Temos qual o modelo você gostaria?')
+else:
+    print('Infelizmente não temos!')
